@@ -7,7 +7,8 @@ public class promedio1 {
 
 	       
 		Scanner scanner = new Scanner(System.in);
-              
+
+        // Escribir las cantidades 
 		int examen1= scanner.nextInt();
                 int examen2 = scanner.nextInt();
                 int examen3 = scanner.nextInt();
