@@ -13,6 +13,7 @@ public class promedio1 {
                 int examen3 = scanner.nextInt();
                 int examen4 = scanner.nextInt();
 
+        //mostar promedio
 		int suma = examen1 + examen2 + examen3 + examen4;
 		int promedio = suma / 4;
 		
